@@ -1,0 +1,261 @@
+[
+        {
+        "id": 1,
+      "firstName": "Jonas",
+      "lastName": "Jonaitis",
+      "class": "11A",
+      "subjects_grades": {
+        "math": 8,
+        "physics": 7,
+        "chemistry": 9
+      },
+      "average": 8.00
+        }
+        ,
+        {
+        "id": 2,
+      "firstName": "Ona",
+      "lastName": "Onaite",
+      "class": "10B",
+      "subjects_grades": {
+        "math": 9,
+        "physics": 8,
+        "chemistry": 7
+      },
+      "average": 8.00
+        }
+        ,
+        {
+        "id": 3,
+      "firstName": "Petras",
+      "lastName": "Petraitis",
+      "class": "12C",
+      "subjects_grades": {
+        "math": 10,
+        "physics": 9,
+        "chemistry": 10
+      },
+      "average": 9.67
+        }
+        ,
+        {
+        "id": 4,
+      "firstName": "Marytė",
+      "lastName": "Marytėnaitė",
+      "class": "9A",
+      "subjects_grades": {
+        "math": 6,
+        "physics": 7,
+        "chemistry": 8
+      },
+      "average": 7.00
+        }
+        ,
+        {
+        "id": 5,
+      "firstName": "Antanas",
+      "lastName": "Antanaitis",
+      "class": "11B",
+      "subjects_grades": {
+        "math": 7,
+        "physics": 8,
+        "chemistry": 7
+      },
+      "average": 7.33
+        }
+        ,
+        {
+        "id": 6,
+      "firstName": "Gabija",
+      "lastName": "Gabijaitė",
+      "class": "10C",
+      "subjects_grades": {
+        "math": 9,
+        "physics": 9,
+        "chemistry": 8
+      },
+      "average": 8.67
+        }
+        ,
+        {
+        "id": 7,
+      "firstName": "Tomas",
+      "lastName": "Tomaitis",
+      "class": "12A",
+      "subjects_grades": {
+        "math": 8,
+        "physics": 7,
+        "chemistry": 9
+      },
+      "average": 8.00
+        }
+        ,
+        {
+        "id": 8,
+      "firstName": "Greta",
+      "lastName": "Gretutė",
+      "class": "11C",
+      "subjects_grades": {
+        "math": 10,
+        "physics": 9,
+        "chemistry": 10
+      },
+      "average": 9.67
+        }
+        ,
+        {
+        "id": 9,
+      "firstName": "Kazimieras",
+      "lastName": "Kazimieraitis",
+      "class": "9B",
+      "subjects_grades": {
+        "math": 7,
+        "physics": 8,
+        "chemistry": 7
+      },
+      "average": 7.33
+        }
+        ,
+        {
+        "id": 10,
+      "firstName": "Inga",
+      "lastName": "Ingaitytė",
+      "class": "10A",
+      "subjects_grades": {
+        "math": 9,
+        "physics": 9,
+        "chemistry": 8
+      },
+      "average": 8.67
+        }
+        ,
+        {
+        "id": 11,
+      "firstName": "Artūras",
+      "lastName": "Artūraitis",
+      "class": "11A",
+      "subjects_grades": {
+        "math": 8,
+        "physics": 7,
+        "chemistry": 9
+      },
+      "average": 8.00
+        }
+        ,
+        {
+        "id": 12,
+      "firstName": "Eglė",
+      "lastName": "Eglutė",
+      "class": "10B",
+      "subjects_grades": {
+        "math": 9,
+        "physics": 8,
+        "chemistry": 7
+      },
+      "average": 8.00
+        }
+        ,
+        {
+        "id": 13,
+      "firstName": "Žygimantas",
+      "lastName": "Žygimantaitis",
+      "class": "12C",
+      "subjects_grades": {
+        "math": 10,
+        "physics": 9,
+        "chemistry": 10
+      },
+      "average": 9.67
+        }
+        ,
+        {
+        "id": 14,
+      "firstName": "Laura",
+      "lastName": "Lauraitytė",
+      "class": "9A",
+      "subjects_grades": {
+        "math": 6,
+        "physics": 7,
+        "chemistry": 8
+      },
+      "average": 7.00
+        }
+        ,
+        {
+        "id": 15,
+      "firstName": "Mantas",
+      "lastName": "Mantaitis",
+      "class": "11B",
+      "subjects_grades": {
+        "math": 7,
+        "physics": 8,
+        "chemistry": 7
+      },
+      "average": 7.33
+        }
+        ,
+        {
+        "id": 16,
+      "firstName": "Rūta",
+      "lastName": "Rūtutė",
+      "class": "10C",
+      "subjects_grades": {
+        "math": 9,
+        "physics": 9,
+        "chemistry": 8
+      },
+      "average": 8.67
+        }
+        ,
+        {
+        "id": 17,
+      "firstName": "Donatas",
+      "lastName": "Donatauskas",
+      "class": "12A",
+      "subjects_grades": {
+        "math": 8,
+        "physics": 7,
+        "chemistry": 9
+      },
+      "average": 8.00
+        }
+        ,
+        {
+        "id": 18,
+      "firstName": "Justina",
+      "lastName": "Justinaitė",
+      "class": "11C",
+      "subjects_grades": {
+        "math": 10,
+        "physics": 9,
+        "chemistry": 10
+      },
+      "average": 9.67
+        }
+        ,
+        {
+        "id": 19,
+      "firstName": "Algirdas",
+      "lastName": "Algirdaitis",
+      "class": "9B",
+      "subjects_grades": {
+        "math": 7,
+        "physics": 8,
+        "chemistry": 7
+      },
+      "average": 7.33
+        }
+        ,
+        {
+        "id": 20,
+      "firstName": "Lina",
+      "lastName": "Linutė",
+      "class": "10A",
+      "subjects_grades": {
+        "math": 9,
+        "physics": 9,
+        "chemistry": 8
+      },
+      "average": 8.67
+        }
+        ]
